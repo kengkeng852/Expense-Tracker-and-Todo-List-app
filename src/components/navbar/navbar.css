@@ -1,0 +1,32 @@
+@import "../../style.css";
+
+header {
+    top: 0; left: 0; right:0;
+    background-color: #9daa74;
+    padding: 2rem 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 555;
+}
+
+header .logo{
+    font-size: 2rem;
+    color:#5a5b6d;
+    font-weight: bolder;
+}
+
+
+header .navbar a{
+    font-size: 1.3rem;
+    padding: 0 1.5rem;
+    color: white;
+}
+
+header .navbar a:hover {
+    color: #D5CB8E;
+}
+
+header #toggle {
+    display: none;
+}
