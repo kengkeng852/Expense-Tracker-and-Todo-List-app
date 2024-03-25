@@ -1,4 +1,4 @@
-# Web application for simple Expense tracker and Todo list
+# Web application for simple Expense tracker and Todo list with React
 
 ## Step to run
 ###  `1. npm install`
