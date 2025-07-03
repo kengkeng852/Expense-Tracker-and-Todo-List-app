@@ -44,7 +44,7 @@ header #toggle {
     align-items: center;
     margin-top: 0px;
     min-height: 90vh;
-    background-image: url(/Users/kongphobwutthiumphol/Desktop/Webdev/react-expense-todo/public/images/zengarden.jpeg);
+    background-image: url('../../assets/zengarden.jpeg');
     background-size: cover;
     background-position: center;
 }

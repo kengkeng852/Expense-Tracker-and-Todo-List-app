@@ -12,7 +12,7 @@
     width: 100%; 
     margin-top: 0px;
     min-height: 90vh;
-    background-image: url(/Users/kongphobwutthiumphol/Desktop/Webdev/react-expense-todo/public/images/zengarden.jpeg); 
+    background-image: url('../../assets/zengarden.jpeg'); 
     background-size: cover;
     background-position: center;
     position: relative; /* to center white box*/
@@ -229,7 +229,7 @@
     height: 20px;
     right: 50px;
     cursor: pointer;
-    background-image: url(/Users/kongphobwutthiumphol/Desktop/Webdev/react-expense-todo/public/images/edit.png);
+    background-image: url('../../assets/edit.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
@@ -240,7 +240,7 @@
     height: 20px;
     right: 20px;
     cursor: pointer;
-    background-image: url(/Users/kongphobwutthiumphol/Desktop/Webdev/react-expense-todo/public/images/trash.png);
+    background-image: url('../../assets/trash.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
@@ -339,7 +339,7 @@
     height: 20px;
     right: 50px;
     cursor: pointer;
-    background-image: url(/Users/kongphobwutthiumphol/Desktop/Webdev/react-expense-todo/public/images/edit.png);
+    background-image: url('../../assets/edit.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
@@ -350,7 +350,7 @@
     height: 20px;
     right: 20px;
     cursor: pointer;
-    background-image: url(/Users/kongphobwutthiumphol/Desktop/Webdev/react-expense-todo/public/images/trash.png);
+    background-image: url('../../assets/trash.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }

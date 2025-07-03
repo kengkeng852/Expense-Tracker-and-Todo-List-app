@@ -162,6 +162,7 @@ const Expense = () => {
                                                 </li>
                                             );
                                         }
+                                        return null; // Return null for any other types
                                 })}
                             </ul>
                         </div>
